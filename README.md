@@ -92,4 +92,23 @@ All visualizations were built using Plotly for interactivity and exploratory ana
 
 . Local Streets stay consistently low-volume, with minor fluctuations only
 
+## 🏁 Conclusion
+
+This project demonstrates the ability to transform raw transportation data into structured, actionable insights
+It highlights a consistent urban traffic hierarchy where:
+
+. Arterial roads dominate traffic flow
+
+. Collector roads act as intermediaries
+
+. Local streets serve localized access functions
+
+This pattern remains stable across both lane capacity and time evolution, reflecting a well-structured urban transportation system
+
 - Insight: Over time, traffic growth is primarily absorbed by Arterial infrastructure, while the overall road hierarchy remains stable and unchanged
+
+## 👤 Author
+
+Junior Data Analyst
+Python (Polars) | SQL | visualization (Plotly)
+Actively seeking opportunities in Canada with employer sponsorship
