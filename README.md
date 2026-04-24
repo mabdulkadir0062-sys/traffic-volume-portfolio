@@ -74,7 +74,7 @@ All visualizations were built using Plotly for interactivity and exploratory ana
 
 - Insight: A clear and stable urban traffic hierarchy exists where Arterials dominate mobility, Collectors distribute flow, and Local Streets serve local access
 
-  ### 2- Correlation Between Lane Capacity & AADT
+### 2- Correlation Between Lane Capacity & AADT
 
 . Higher lane counts strongly increase traffic volume mainly on Arterial roads
 
@@ -84,7 +84,7 @@ All visualizations were built using Plotly for interactivity and exploratory ana
 
 - Insight: Lane expansion is most effective on high-capacity roads (Arterials), while lower-tier roads are influenced more by function than physical capacity
 
-  ### 3- Evolution of Traffic Volumes by Road Class
+ ### 3- Evolution of Traffic Volumes by Road Class
 
  . Arterial roads consistently maintain the highest traffic across all years, with noticeable growth in recent decades
  
