@@ -62,3 +62,34 @@ All visualizations were built using Plotly for interactivity and exploratory ana
 
 . End-to-end analytics workflow
 
+## Key Insighst 
+
+### 1- Distribution of Traffic Volume by Road Class & Flow Direction
+
+. Arterial roads carry the highest traffic volumes, significantly above Collector and Local Streets
+
+. Collector roads act as mid-level connectors, handling moderate traffic
+
+. Local Streets consistently carry very low traffic, mainly serving access functions
+
+- Insight: A clear and stable urban traffic hierarchy exists where Arterials dominate mobility, Collectors distribute flow, and Local Streets serve local access
+
+  ### 2- Correlation Between Lane Capacity & AADT
+
+. Higher lane counts strongly increase traffic volume mainly on Arterial roads
+
+. Collector roads show moderate and inconsistent scaling with lane increases
+
+. Local Streets show minimal impact from lane expansion, remaining low-volume regardless of capacity
+
+- Insight: Lane expansion is most effective on high-capacity roads (Arterials), while lower-tier roads are influenced more by function than physical capacity
+
+  ### 3- Evolution of Traffic Volumes by Road Class
+
+ . Arterial roads consistently maintain the highest traffic across all years, with noticeable growth in recent decades
+ 
+. Collector roads remain stable mid-level carriers over time
+
+. Local Streets stay consistently low-volume, with minor fluctuations only
+
+- Insight: Over time, traffic growth is primarily absorbed by Arterial infrastructure, while the overall road hierarchy remains stable and unchanged
