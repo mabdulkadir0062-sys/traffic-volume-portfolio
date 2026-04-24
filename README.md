@@ -22,11 +22,11 @@ This analysis helps support decisions in:
 
 . Smart city development
 
-## Data Cleaning & Preparation
+## 🧹 Data Cleaning & Preparation
 
 ### Key transformation applied :
 
-. Standardized categorical text fields (uppercase + trimmed)
+. Standardized categorical text fields (trimmed + uppercase)
 
 . Converted date strings into datetime format
 
@@ -46,7 +46,7 @@ This analysis helps support decisions in:
 
 . Time series analysis
 
-All visualizations were built using Plotly for interactivity and exploratory analysis.
+All visualizations were built using Plotly for interactivity and exploratory analysis
 
 ## 🧠 Skills Demonstrated
 
@@ -91,6 +91,7 @@ All visualizations were built using Plotly for interactivity and exploratory ana
 . Collector roads remain stable mid-level carriers over time
 
 . Local Streets stay consistently low-volume, with minor fluctuations only
+
  - Insight: Over time, traffic growth is primarily absorbed by Arterial infrastructure, while the overall road hierarchy remains stable and unchanged
 
 ## 🏁 Conclusion
