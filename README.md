@@ -91,6 +91,7 @@ All visualizations were built using Plotly for interactivity and exploratory ana
 . Collector roads remain stable mid-level carriers over time
 
 . Local Streets stay consistently low-volume, with minor fluctuations only
+ - Insight: Over time, traffic growth is primarily absorbed by Arterial infrastructure, while the overall road hierarchy remains stable and unchanged
 
 ## 🏁 Conclusion
 
@@ -105,10 +106,12 @@ It highlights a consistent urban traffic hierarchy where:
 
 This pattern remains stable across both lane capacity and time evolution, reflecting a well-structured urban transportation system
 
-- Insight: Over time, traffic growth is primarily absorbed by Arterial infrastructure, while the overall road hierarchy remains stable and unchanged
+
 
 ## 👤 Author
 
 Junior Data Analyst
+
 Python (Polars) | SQL | visualization (Plotly)
+
 Actively seeking opportunities in Canada with employer sponsorship
