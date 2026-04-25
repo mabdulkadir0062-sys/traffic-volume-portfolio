@@ -72,7 +72,7 @@ All visualizations were built using Plotly for interactivity and exploratory ana
 
 . Local Streets consistently carry very low traffic mainly serving access functions
 
-- Insight: A clear and stable urban traffic hierarchy exists where Arterials dominate mobility, Collectors distribute flow, and Local Streets serve local access
+- Insight: A clear and stable urban traffic hierarchy exists where Arterials dominate mobility Collectors distribute flow, and Local Streets serve local access
 
 ### 2- Correlation Between Lane Capacity & AADT
 
