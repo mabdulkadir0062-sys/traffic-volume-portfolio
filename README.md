@@ -105,9 +105,7 @@ It highlights a consistent urban traffic hierarchy where:
 
 . Local streets serve localized access functions
 
-This pattern remains stable across both lane capacity and time evolution, reflecting a well-structured urban transportation system
-
-
+This pattern remains stable across both lane capacity and time evolution reflecting a well-structured urban transportation system
 
 ## 👤 Author
 
